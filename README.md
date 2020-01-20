@@ -1,8 +1,8 @@
 # Aprendendo Python
 
-Este guia visa ensinar Python para alunos de engenharia que já irá compor uma das ferramentas da disciplina de Sistemas Autônomos. O intúito desta Python. rogramação sem necessidade de um conhecimento prévio.
+Este guia visa ensinar Python para alunos de engenharia que já posuem conhecimentos de lógica de programação. Ele irá compor uma das ferramentas da disciplina de Sistemas Autônomos.
 
-Esta página é uma coleção de exercícios progressivamente mais difíceis que são adequados para pessoas que tem interesse em aprender Lógica de Programação. Os exercícios, em sua maioria, são algorítmicos e devem/podem ser solucionados sem o uso de bibliotecas. A dificuldade dos exercícios, claro, depende da linguagem de programação que você usa, como por exemplo C, que não têm suporte integrado à listas. Alguns exemplos serão resolvidos em javaScript.
+Este git é uma coleção de exercícios progressivamente mais difíceis que são adequados para pessoas que tem interesse em aprender ou migrar para python. Os exercícios, em sua maioria, são algorítmicos e devem/podem ser solucionados sem o uso de bibliotecas. Os exercícios serão integrados com o uso do drone TELLO disponível no laboratório da disciplina. Alguns exemplos serão resolvidos em vídeo.
 
 
 ## Começando
