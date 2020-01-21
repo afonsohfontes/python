@@ -12,7 +12,7 @@ Aprender uma nova linguagem de programação significa aprender a resolver probl
 
 Este [vídeo](https://www.youtube.com/watch?v=Q8eajxcS6dQ) é um ótimo início para nossa jornada, leve o tempo que precisar, assista, pause, reveja quantas vezes achar nescessário.
 
-[![Conceitos básicos de python](https://img.youtube.com/vi/Q8eajxcS6dQ/2.jpg)](https://www.youtube.com/watch?v=Q8eajxcS6dQ)
+[![Conceitos básicos de python](https://img.youtube.com/vi/Q8eajxcS6dQ/0.jpg)](https://www.youtube.com/watch?v=Q8eajxcS6dQ)
 
 
 ### Instalando e configurando o compilador python
@@ -21,4 +21,4 @@ Este [vídeo](https://www.youtube.com/watch?v=Q8eajxcS6dQ) é um ótimo início 
 ### Hello World
 *Antes de começarmos com os exercícios, tire este momento para testar o compilador e se familiarizar com o ambiente jupyter notebook. Este [Vídeo](https://www.youtube.com/watch?v=-vpNfWtVufY&list=PLyqOvdQmGdTSEPnO0DKgHlkXb8x3cyglD&index=3) é um ótimo começo.
 
-[![Hello World](https://www.youtube.com/watch?v=-vpNfWtVufY&list=PLyqOvdQmGdTSEPnO0DKgHlkXb8x3cyglD&index=3)(https://img.youtube.com/vi/-vpNfWtVufY&list=PLyqOvdQmGdTSEPnO0DKgHlkXb8x3cyglD&index=3/0.jpg)
+[![Hello World](https://www.youtube.com/watch?v=-vpNfWtVufY&list=PLyqOvdQmGdTSEPnO0DKgHlkXb8x3cyglD&index=3)(https://img.youtube.com/vi/-vpNfWtVufY/0.jpg)
