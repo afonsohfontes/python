@@ -18,6 +18,8 @@ Este [vídeo](https://www.youtube.com/watch?v=Q8eajxcS6dQ) é um ótimo início 
 ### Instalando e configurando o compilador python
 *[Clique aqui](https://didatica.tech/como-instalar-o-python-utilizando-anaconda/)* para o passo a passo para instalação do Anaconda por texto. Ou *[Aqui](https://youtu.be/r-NlBdKEb2k?list=PLyqOvdQmGdTSEPnO0DKgHlkXb8x3cyglD&t=172)* para o guia em vídeo.
 
+[![Aqui](https://img.youtube.com/vi/r-NlBdKEb2k/0.jpg)](https://youtu.be/r-NlBdKEb2k?list=PLyqOvdQmGdTSEPnO0DKgHlkXb8x3cyglD&t=172)
+
 ### Hello World
 *Antes de começarmos com os exercícios, tire este momento para testar o compilador e se familiarizar com o ambiente jupyter notebook. Este [Vídeo](https://www.youtube.com/watch?v=-vpNfWtVufY&list=PLyqOvdQmGdTSEPnO0DKgHlkXb8x3cyglD&index=3) é um ótimo começo.
 
