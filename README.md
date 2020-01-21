@@ -12,10 +12,8 @@ Aprender uma nova linguagem de programação significa aprender a resolver probl
 
 Este [vídeo](https://www.youtube.com/watch?v=Q8eajxcS6dQ) é um ótimo início para nossa jornada, leve o tempo que precisar, assista, pause, reveja quantas vezes achar nescessário.
 
-[![Conceitos básicos de python](https://img.youtube.com/vi/Q8eajxcS6dQ/0.jpg)](https://www.youtube.com/watch?v=Q8eajxcS6dQ)
+[![Conceitos básicos de python](https://img.youtube.com/vi/Q8eajxcS6dQ/2.jpg)](https://www.youtube.com/watch?v=Q8eajxcS6dQ)
 
 
-### Pré-requisitos
-*[NotePad++](https://notepad-plus-plus.org/download/v7.6.6.html) - O editor de texto/código utilizando pelos autores. Fique a vontade de utilizar outras opções dispoíveis como o [Visual Studio Code](https://code.visualstudio.com/Download).
-
-*Precisaremos também de um navegador capaz de compilar javaScript, como [Google Chrome](https://www.google.com/intl/pt-BR_ALL/chrome/) ou [Firefox](https://www.mozilla.org/pt-BR/firefox/new/).
+### Instalando e configurando o compilador python
+*[Clique aqui](https://didatica.tech/como-instalar-o-python-utilizando-anaconda/) para o passo a passo para instalação do Anaconda por texto. Ou [Aqui](https://youtu.be/r-NlBdKEb2k?list=PLyqOvdQmGdTSEPnO0DKgHlkXb8x3cyglD&t=172) para o guia em vídeo.
